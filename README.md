@@ -1,6 +1,8 @@
 # Winsor_Eviews
 Perform trimming or Winsorising on a series or group With Eviews 13
 
+https://www.youtube.com/watch?v=S6voIRwB2Nk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
